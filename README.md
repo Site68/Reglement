@@ -1,2 +1,3 @@
-# 📢 Mise a Jour du règlement
-Haut dessus vous rentrouvé toute les modificationss effectué sur le règlement du serveur !
+# 📕 Règlement Site 68
+
+Haut dessus vous rentrouvé toute les modifications effectué sur le règlement du serveur !
