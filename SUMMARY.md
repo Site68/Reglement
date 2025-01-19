@@ -2,8 +2,7 @@
 
 ## 📜 Règlement Serveur
 
-* [📕 Règlement Site 68](README.md)
-* [🛖 Globalement](reglement-serveur/globalement.md)
+* [🛖 Globalement](README.md)
 * [💸 Remboursement - Conditions](reglement-serveur/remboursement-conditions.md)
 
 ## ⚖️ Règlement Roleplay
