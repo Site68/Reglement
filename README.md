@@ -8,6 +8,6 @@ description: >-
 
 * Beaucoup de choses ne sont pas précisées dans le règlement parce que vous devez respecter le RolePlay en général.
 * Lorsque vous rejoignez le serveur vous devez connaître au minimum : Les règles de base, les règles sur les métiers, et bien sûr le règlement sur serveur.
-* Tout comportement haineux est sanctionnable d’un bannissement..
+* Tout comportement haineux est sanctionnable d’un bannissement.
 
 \
