@@ -1,13 +1,18 @@
 # 🧬 Scientifique
 
-* Gérant scientifique : Gère les sci et a accès à tous les SCP
+* Gérant scientifique :&#x20;
+
+> Gère les sci et a accès à tous les SCP
+
+
+
+* Expert Scientifique :&#x20;
+
+> Fait des expérience sur tous les euclid maximum
 
 \
 
 
-* Expert Scientifique : Fait des expérience sur tous les euclid maximum
+* Recrue Scientifique :&#x20;
 
-\
-
-
-* Recrue Scientifique : Fait des expérience que sur les safe
+> Fait des expérience que sur les safe

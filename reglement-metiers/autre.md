@@ -1,6 +1,8 @@
 # 📦 Autre
 
-* Journaliste : Leur but et d'interroger le personnel tout en respectant les règle
+* Journaliste :&#x20;
+
+> Interroger le personnel tout en respectant les règle
 
 
 

@@ -17,3 +17,7 @@
 * Vous avez le droit de tuer d’autre classe d pour garder votre couverture en tant que infiltré
 
 > _Seulement si vous n'avez pas d'autre possibilité_
+
+* Rebéllion en tant que Membre du Personnel
+
+> Se rebeller en tant que membre du Personnel pour libérez des Classes D ou faire libérer les SCP est interdit.

@@ -12,4 +12,18 @@
 
 
 
-* _Interdiction de se mettre en AFK pour éviter une scène RP ou l'annuler._
+* AFK Scène RP
+
+> _Interdiction de ce mettre en AFK pour éviter une scène RP ou l'annuler._
+
+
+
+* Tire a l'intérieur des Boxes
+
+> _Tiré a l'intérieur de la boxe est strictement interdit. Vous devez sortir pour tiré et après vous pouvez re-rentré a l'intérieur._
+
+
+
+* Intercom
+
+> _Le fait d'envoyé un message a l'intercom sans aucune valeur RP est interdit. Aini de même pour le spam._

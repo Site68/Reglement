@@ -1,6 +1,6 @@
 # 💸 Remboursement - Conditions
 
-### <mark style="color:red;">Nous ne remboursons pas :</mark>
+### _<mark style="color:red;">Nous ne remboursons pas :</mark>_
 
 * Les erreurs de virement&#x20;
 * C'est à vous de faire attention à qui vous transférez vos bien.
