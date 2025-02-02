@@ -10,8 +10,7 @@
 * [🪵 Le RolePlay](reglement-roleplay/le-roleplay.md)
 * [🏹 Prise d'otage](reglement-roleplay/prise-dotage.md)
 * [💻 GamePlay](reglement-roleplay/gameplay.md)
-* [💣 Corruption/Rebéllion](reglement-roleplay/corruption-rebellion.md)
-* [🧨 Classe-D/ZD](reglement-roleplay/classe-d-zd.md)
+* [🧨 Racket / Braquage](reglement-roleplay/classe-d-zd.md)
 
 ## 💼 Règlement Métiers
 

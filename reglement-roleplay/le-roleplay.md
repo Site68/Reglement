@@ -82,14 +82,4 @@ description: >-
 
 
 
-* Le FreeKick : C’est le fait de kick une personne du serveur sans aucune raison spécifique. _(Accès grâce au vip)_
-
-
-
-* Kill AFK
-
-> _Vous ne pouvez pas tuer quelqu'un étant AFK_
-
-
-
 * FairPlay : Le FairPlay est la règle d’or au sein du serveur ! Cette règle a plusieurs significations. Voici quelque exemple du FairPlay : “Apprendre à Perdre” | “Ne pas rager” | “Joué le Jeu” | “Si la personne a un problème de son côté il faut savoir l’attendre, qu'elle ne bug plus et que cela reprenne l’action” | Bref je pense que vous avez compris, le but du FairPlay c’est juste de savoir bien jouer, de se respecter, et d’être joueur on est pas la gagner a chaque fois il faut assumer que des fois on puisse perdre. Si un staff vois une personne Non Fairplay qui est Full Toxic, Insultant, et qui n’est pas Fun cette personne sera directement sanctionné d’un Bannissement.

@@ -1,27 +1,26 @@
-# 🧨 Classe-D/ZD
+# 🧨 Racket / Braquage
 
-* Interdiction de tuer un Classe-D s’il ramasse des objets au sol.
-
-
-
-* Interdiction de tuer un Classe-D s’il construit quelque chose à la table de craft
+* Si vous braquer une personne vous avez le droit de lui prendre tout ce qu'elle a sur elle (Argent, Arme, ect)
 
 
 
-* Interdiction de tuer un Classe-D tant que les 3 sommations a la ligne jaune n’ont pas était cité.
-
-> _Les sommations doivent être cité a l'écrit pour évité tout problème de confusion._
+* Il n'y a pas de minimum de braqueur pour braquer la Banque ou tout autre type. Si vous êtes tout seul, c'est à vous de trouver une solution. Pareil pour la supérette.
 
 
 
-* L'intervalle de temps pour refaire une prise d’otage est de 30 minutes.
+* Braquage Brinks
 
-> _Demandé a un membre du staff s'y besoin._
-
-
-
-* Interdiction de camper devant les zones au il y a des bouches d’aération
+> Pour braquer un camion de Brinks, le Mass RP est à retenir.
 
 
 
-* Interdiction de faire une fouille général ZD sans aucune raison
+* Si vous braquez une personne et qu' elle coopère, vous n'avez pas le droit de lui détruire son bien
+
+
+
+* Vole de véhicule de fonction interdit
+
+> Sauf en cas de grosse scène RP.
+
+
+
