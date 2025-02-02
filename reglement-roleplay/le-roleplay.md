@@ -28,7 +28,7 @@ description: >-
 
 * ForceRP : Le ForceRP c’est le fait de forcer une personne a jouer une action RP juste pour votre envie.
 
-> _Exemple : Vous forcer avec un de vos Haut Gardé pour amenez cela sur une scène. Toute chose qui peuvent forcer une action à être réalisé est du ForceRP._
+> _Exemple : Vous forcer avec une personne pour amenez cela sur une scène. Toute chose qui peuvent forcer une action à être réalisé est du ForceRP._
 
 
 
@@ -66,10 +66,6 @@ description: >-
 
 
 
-* AFK Farm : L'AFK Farm est le fait de resté AFK tout en récupérant l'exp.
-
-
-
 * Spam Radio : Spam la radio inutilement ou avec des choses Non RP.
 
 
@@ -79,8 +75,6 @@ description: >-
 
 
 * Cohérence RP : La Cohérence RP est le fait d'incarner pleinement votre personnage en respectant sa biographie et son histoire.
-
-> _Exemple : “Un Gérant Scientifique ne peux pas aidé a combattre les SCP ou Classe-D !_
 
 
 

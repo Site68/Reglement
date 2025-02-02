@@ -5,5 +5,7 @@
 * Les Soundboards, modificateur de voix, ou musique, sont interdits sauf si vous demandez l’autorisation à un Administrateur.
 * L'utilisation de logiciel de triche/hack est strictement interdit
 * L'utilisation d'un double compte pour contournée un bannissement est interdit
+* Les publicités de tout types sont strictement interdites
+* La vente ou l’achat de bien contre de l’argent réel est strictement interdit.
 * <mark style="color:red;">**Disclaimer**</mark>**:** L’administration se réserve le droit de sanctionner toutes actions jugée perturbatrice pour le RP, indépendamment du règlement.
 
