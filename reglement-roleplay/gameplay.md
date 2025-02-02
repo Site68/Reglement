@@ -1,6 +1,6 @@
 # 💻 GamePlay
 
-* Utilisez vos armes quand derniers recours.
+* Utilisez vos armes qu'en derniers recours.
 
 > Lorsque que vous l’utilisez et que la personne en face de vous n’est pas menaçant, vous devez effectuer une _série_ de 3 sommations avant de l'abattre si celle-ci refuse de soumettre vos ordres.
 
