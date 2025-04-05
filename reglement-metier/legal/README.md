@@ -1,4 +1,4 @@
-# 📦 Autre
+# 👤 Règlement Légal
 
 * Journaliste :&#x20;
 

@@ -12,9 +12,10 @@
 * [💻 GamePlay](reglement-roleplay/gameplay.md)
 * [🧨 Racket / Braquage](reglement-roleplay/classe-d-zd.md)
 
-## 💼 Règlement Métiers
+## 💼 Règlement Métier
 
-* [🔗 Sécurité](reglement-metiers/securite.md)
-* [🧬 Scientifique](reglement-metiers/scientifique.md)
-* [🧰 DI\&ST](reglement-metiers/di-and-st.md)
-* [📦 Autre](reglement-metiers/autre.md)
+* [👤 Règlement Légal](reglement-metier/legal/README.md)
+  * [Citoyen](reglement-metier/legal/citoyen.md)
+  * [Police/Gendamerie](reglement-metier/legal/police-gendamerie.md)
+* [🎭 Règlement Illegal](reglement-metier/reglement-illegal/README.md)
+  * [Page 3](reglement-metier/reglement-illegal/page-3.md)
