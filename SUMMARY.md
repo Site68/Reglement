@@ -14,6 +14,7 @@
 
 ## 💼 Règlement Métier
 
+* [Information](reglement-metier/information.md)
 * [👤 Règlement Légal](reglement-metier/legal/README.md)
   * [Citoyen](reglement-metier/legal/citoyen.md)
   * [Police/Gendamerie](reglement-metier/legal/police-gendamerie.md)
